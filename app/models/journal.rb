@@ -1,0 +1,1 @@
+ class Journal < ApplicationRecord  belongs_to :mood, optional: trueend
